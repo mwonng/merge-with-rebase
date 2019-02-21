@@ -2,3 +2,4 @@
 
 - add commit DB
 - add commit DC
+- add commit DE
